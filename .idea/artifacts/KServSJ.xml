@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KServSJ">
+    <output-path>$PROJECT_DIR$/out/artifacts/KServSJ</output-path>
+    <root id="archive" name="KServSJ.jar">
+      <element id="module-output" name="KServSJ" />
+    </root>
+  </artifact>
+</component>

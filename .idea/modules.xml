@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KServSJ/KServSJ.iml" filepath="$PROJECT_DIR$/KServSJ/KServSJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MC_Plugin_KServ.iml" filepath="$PROJECT_DIR$/MC_Plugin_KServ.iml" />
+    </modules>
+  </component>
+</project>
